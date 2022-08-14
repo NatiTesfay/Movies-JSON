@@ -1,0 +1,60 @@
+{
+    "data":{
+        "anime":
+        {
+            "id":1,
+            "name":"nauto",
+            "year":2000,
+            "isSubtitled":true,
+            "tags":[
+                "tatebayo",
+                "baka",
+                "hokage"
+            ]
+
+            
+        },
+        "series":
+        {
+            "id":1,
+            "name":"nauto",
+            "year":2000,
+            "isSubtitled":true,
+            "tags":[
+                "tatebayo",
+                "baka",
+                "hokage"
+            ]
+
+            
+        },
+        "manga":
+        {
+            "id":1,
+            "name":"nauto",
+            "year":2000,
+            "isSubtitled":true,
+            "tags":[
+                "tatebayo",
+                "baka",
+                "hokage"
+            ]
+
+            
+        },
+        "games":
+        {
+            "id":1,
+            "name":"nauto",
+            "year":2000,
+            "isSubtitled":true,
+            "tags":[
+                "tatebayo",
+                "baka",
+                "hokage"
+            ]
+
+            
+        }
+    }
+}
